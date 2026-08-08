@@ -1,4 +1,4 @@
-# WispTheory
+# Wisp Theory
 My DIY theory for stenography.
 I made this years ago, but rediscovered it recently. I compiled all the okay words and phrases into one dictionary. It's over 7000 entries long, with a ton of nonsense in it.
 
