@@ -7,5 +7,5 @@ Let me know if you choose to use Wisp Theory! In the meantime, I'll be updating 
 Rules:
 1. We use the number bar for strokes if we want to. Every entry has at least one number bar entry.
 2. To invert phrases, we use #-Z! "She will" inverted is "will she".
-3. Translations reflect steno order. So if "she" is the first part of the phrase, then it must also be at the front of the chord. For example: "I believe" should have "I" before "believe".
+3. Translations reflect steno order. So if "she" is the first part of the phrase, then it should also be at the front of the chord. For example: "I believe" should have "I" before "believe". Some phrases, due to the way they are written in English, might, however, surround the pronoun chord.
 4. We use asterisk mostly for past tense.
